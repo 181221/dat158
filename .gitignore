@@ -8,4 +8,5 @@ data/
 ./assets
 ./images
 .vscode/*
+/images
 
