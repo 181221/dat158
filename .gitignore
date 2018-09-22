@@ -5,6 +5,7 @@
 data/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+./assets
+./images
 .vscode/*
 
